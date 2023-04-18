@@ -20,6 +20,8 @@ import borders from "assets/theme/base/borders";
 // Material Dashboard 2 React helper functions
 import pxToRem from "assets/theme/functions/pxToRem";
 
+// import sideCat from "assets/images/sideBarCat.png";
+
 const { white } = colors;
 const { borderRadius } = borders;
 
@@ -34,6 +36,7 @@ const sidenav = {
     paper: {
       width: pxToRem(250),
       backgroundColor: white.main,
+      // backgroundImage: `url(${sideCat})`,
       height: `calc(100vh - ${pxToRem(32)})`,
       margin: pxToRem(16),
       borderRadius: borderRadius.xl,
