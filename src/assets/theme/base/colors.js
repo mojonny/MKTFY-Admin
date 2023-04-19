@@ -21,12 +21,12 @@ Coded by www.creative-tim.com
 
 const colors = {
   background: {
-    default: "#f0f2f5",
+    default: "#f4f4f5",
   },
 
   text: {
-    main: "#7b809a",
-    focus: "#7b809a",
+    main: "#000000",
+    focus: "#000000",
   },
 
   transparent: {
@@ -45,28 +45,28 @@ const colors = {
   },
 
   primary: {
-    main: "#e91e63",
-    focus: "#e91e63",
+    main: "#6318af",
+    focus: "#6318af",
   },
 
   secondary: {
-    main: "#7b809a",
-    focus: "#8f93a9",
+    main: "#ffba00",
+    focus: "#ffba00",
   },
 
   info: {
-    main: "#1A73E8",
-    focus: "#1662C4",
+    main: "#6318af",
+    focus: "#6318af",
   },
 
   success: {
-    main: "#4CAF50",
-    focus: "#67bb6a",
+    main: "#6318af",
+    focus: "#6318af",
   },
 
   warning: {
-    main: "#fb8c00",
-    focus: "#fc9d26",
+    main: "#ffba00",
+    focus: "#ffba00",
   },
 
   error: {
@@ -98,23 +98,23 @@ const colors = {
 
   gradients: {
     primary: {
-      main: "#EC407A",
-      state: "#D81B60",
+      main: "#ffba00",
+      state: "#ffba00",
     },
 
     secondary: {
-      main: "#747b8a",
-      state: "#495361",
+      main: "#ffba00",
+      state: "#ffba00",
     },
 
     info: {
-      main: "#49a3f1",
-      state: "#1A73E8",
+      main: "#6318af",
+      state: "#6318af",
     },
 
     success: {
-      main: "#66BB6A",
-      state: "#43A047",
+      main: "#6318af",
+      state: "#6318af",
     },
 
     warning: {
@@ -128,8 +128,8 @@ const colors = {
     },
 
     light: {
-      main: "#EBEFF4",
-      state: "#CED4DA",
+      main: "#ffba00",
+      state: "#ffba00",
     },
 
     dark: {
@@ -138,67 +138,67 @@ const colors = {
     },
   },
 
-  socialMediaColors: {
-    facebook: {
-      main: "#3b5998",
-      dark: "#344e86",
-    },
+  // socialMediaColors: {
+  //   facebook: {
+  //     main: "#3b5998",
+  //     dark: "#344e86",
+  //   },
 
-    twitter: {
-      main: "#55acee",
-      dark: "#3ea1ec",
-    },
+  //   twitter: {
+  //     main: "#55acee",
+  //     dark: "#3ea1ec",
+  //   },
 
-    instagram: {
-      main: "#125688",
-      dark: "#0e456d",
-    },
+  //   instagram: {
+  //     main: "#125688",
+  //     dark: "#0e456d",
+  //   },
 
-    linkedin: {
-      main: "#0077b5",
-      dark: "#00669c",
-    },
+  //   linkedin: {
+  //     main: "#0077b5",
+  //     dark: "#00669c",
+  //   },
 
-    pinterest: {
-      main: "#cc2127",
-      dark: "#b21d22",
-    },
+  //   pinterest: {
+  //     main: "#cc2127",
+  //     dark: "#b21d22",
+  //   },
 
-    youtube: {
-      main: "#e52d27",
-      dark: "#d41f1a",
-    },
+  //   youtube: {
+  //     main: "#e52d27",
+  //     dark: "#d41f1a",
+  //   },
 
-    vimeo: {
-      main: "#1ab7ea",
-      dark: "#13a3d2",
-    },
+  //   vimeo: {
+  //     main: "#1ab7ea",
+  //     dark: "#13a3d2",
+  //   },
 
-    slack: {
-      main: "#3aaf85",
-      dark: "#329874",
-    },
+  //   slack: {
+  //     main: "#3aaf85",
+  //     dark: "#329874",
+  //   },
 
-    dribbble: {
-      main: "#ea4c89",
-      dark: "#e73177",
-    },
+  //   dribbble: {
+  //     main: "#ea4c89",
+  //     dark: "#e73177",
+  //   },
 
-    github: {
-      main: "#24292e",
-      dark: "#171a1d",
-    },
+  //   github: {
+  //     main: "#24292e",
+  //     dark: "#171a1d",
+  //   },
 
-    reddit: {
-      main: "#ff4500",
-      dark: "#e03d00",
-    },
+  //   reddit: {
+  //     main: "#ff4500",
+  //     dark: "#e03d00",
+  //   },
 
-    tumblr: {
-      main: "#35465c",
-      dark: "#2a3749",
-    },
-  },
+  //   tumblr: {
+  //     main: "#35465c",
+  //     dark: "#2a3749",
+  //   },
+  // },
 
   badgeColors: {
     primary: {
